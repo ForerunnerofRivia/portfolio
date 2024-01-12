@@ -1,0 +1,25 @@
+img {
+    max-width: 20%;
+    object-fit: contain;
+    padding: 2%;
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+
+#myPresentationcontainerContent {
+    margin: 0;
+    padding: 0;
+    border: 3px solid rgb(59, 8, 153);
+
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    
+    flex-wrap: nowrap;
+    align-content: flex-start;
+}

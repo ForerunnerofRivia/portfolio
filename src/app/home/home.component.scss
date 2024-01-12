@@ -1,0 +1,12 @@
+
+#name{
+    color : white;
+}
+
+#myPresentationcontainerContent{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+}
